@@ -35,6 +35,7 @@ El usuario puede visitar una página con una interfaz que simula Instagram, incl
 🧠 Lógica destacada
 -------------------
 
+
 📈 Incrementar seguidores:
 ```cpp
 void handle_follow() {
